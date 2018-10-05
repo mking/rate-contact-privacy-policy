@@ -1,1 +1,29 @@
-blah
+Privacy Policy
+==============
+
+What data the app collects
+--------------------------
+
+We collect the phone number, name, and profile picture of the registered user and their contacts.
+
+How the app collects data
+-------------------------
+
+We use the contacts framework to access the registered user's contact information.
+
+All uses of the data 
+--------------------
+
+The purpose of the app is to show users people they can rate. The user information that we store is only used to provide the core functionality of the app.
+
+Third parties
+-------------
+
+We do not use any third party APIs or SDKs.
+
+Data retention/deletion policies
+--------------------------------
+
+We store user information indefinitely. 
+
+Please contact factheartemail@gmail.com if you would like to delete your data.
